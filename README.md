@@ -35,7 +35,7 @@ Things that I don't want to do but are good to do:
 
 ## Projects
 
-### [RATs-Real-time User Tracking & Monitoring System](i will add a github URL)
+### [RATs : Real-time User Tracking & Monitoring System](i will add a github URL)
 A brief description of what this project does and what technologies it uses.
 
 ### [Project Name 2](https://github.com/your-github-username/project-name-2)
