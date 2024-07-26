@@ -16,8 +16,6 @@
 
 ## Languages and Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sortOps&layout=compact&theme=radical)
-
 Here are some of the languages and tools I work with:
 
 - ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -47,7 +45,7 @@ A brief description of what this project does and what technologies it uses.
 
 ## Contact
 
-Feel free to reach out to me via [email](mailto:ask29961@gmail.com).
+Feel free to reach out to me via [HERE](mailto:ask29961@gmail.com).
 
 Thank you for visiting my GitHub profile!
 
