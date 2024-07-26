@@ -8,11 +8,11 @@
 - 👯 Looking to collaborate on: [Kakao-tech-community]
 - 💬 Ask me about: [ ]
 - 📫 How to reach me: [https://github.com/sortOps/]
-- ⚡ Fun fact: [I'm looking for it very hard..  HAHA]
+- ⚡ Fun fact: [I'm looking for it very hard ...]
 
 ## My GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![sortOp's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 ## Languages and Tools
 
