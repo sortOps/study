@@ -16,7 +16,7 @@
 
 ## Languages and Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sortOps&layout=compact&theme=radical)
 
 Here are some of the languages and tools I work with:
 
